@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "redpine": {
+      "url": "https://api.redpine.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "redpine",
+  "displayName": "Redpine",
+  "description": "Licensed, non-public data for AI work in medicine, science, law, and finance, inside Claude Code. Connects to the hosted Redpine Connect MCP server and teaches Claude how to use it: what the account can reach, how to preview a price before spending, and how to cite what comes back.",
+  "version": "0.1.1",
+  "author": {
+    "name": "Redpine",
+    "url": "https://redpine.ai"
+  },
+  "homepage": "https://app.redpine.ai",
+  "repository": "https://github.com/redpine-ai/redpine-plugin",
+  "keywords": [
+    "mcp",
+    "news",
+    "media-monitoring",
+    "aviation",
+    "flights",
+    "science",
+    "research",
+    "data"
+  ]
+}

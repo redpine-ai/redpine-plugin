@@ -1,0 +1,24 @@
+{
+  "name": "redpine-connect",
+  "owner": {
+    "name": "Redpine",
+    "email": "hello@redpine.ai",
+    "url": "https://redpine.ai"
+  },
+  "description": "Redpine Connect for Claude Code.",
+  "plugins": [
+    {
+      "name": "redpine",
+      "source": "./plugins/redpine",
+      "description": "Licensed, non-public data for AI work in medicine, science, law, and finance, inside Claude Code. Connects to the hosted Redpine Connect MCP server and teaches Claude how to use it: what the account can reach, how to preview a price before spending, and how to cite what comes back.",
+      "category": "data",
+      "tags": [
+        "mcp",
+        "news",
+        "aviation",
+        "science",
+        "research"
+      ]
+    }
+  ]
+}
