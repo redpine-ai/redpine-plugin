@@ -20,6 +20,7 @@ Authentication is OAuth against the Redpine Connect server on first use. No toke
 plugins/redpine/
   .claude-plugin/plugin.json
   .mcp.json                          the hosted server, https://api.redpine.ai/mcp
+  icon.svg                           directory icon, the Redpine mark on warm white
   skills/redpine-search/
     SKILL.md                         the loop, entitlements, spending, searching, citing
     references/billing.md            selective unlock, free re-fetch, trial, expiry
