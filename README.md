@@ -1,6 +1,6 @@
 # redpine-plugin
 
-Redpine Connect for Claude Code: licensed, non-public data for AI work in medicine, science, law, and finance, served over MCP.
+Redpine Connect for Claude Code: full-text, peer-reviewed scientific and medical literature, licensed and open access, served over MCP.
 
 One plugin, `redpine`, in the marketplace `redpine-connect`. It connects to the hosted Redpine Connect MCP server and ships one skill, `redpine-search`, that teaches Claude how to use it: what the account can reach, how to preview a price before spending, and how to cite what comes back.
 
