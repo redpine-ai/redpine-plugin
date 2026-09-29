@@ -10,7 +10,7 @@
     {
       "name": "redpine",
       "source": "./plugins/redpine",
-      "description": "Licensed, non-public data for AI work in medicine, science, law, and finance, inside Claude Code. Connects to the hosted Redpine Connect MCP server and teaches Claude how to use it: what the account can reach, how to preview a price before spending, and how to cite what comes back.",
+      "description": "Full-text, peer-reviewed scientific and medical literature inside Claude Code: licensed journals and books from BMJ, Sage and Wiley alongside open-access journals, searched as one collection. Connects to the hosted Redpine Connect MCP server and teaches Claude to preview a search's price before spending and to cite the DOI and publisher of every result.",
       "category": "data",
       "tags": [
         "mcp",
