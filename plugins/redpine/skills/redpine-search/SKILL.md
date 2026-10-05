@@ -1,13 +1,13 @@
 ---
 name: redpine-search
-description: Use when the answer needs a source the user can check, in a field where a wrong answer is costly. Medical and clinical questions, scientific and peer-reviewed literature, statutes and case law, company financials and earnings, markets, recent news and press coverage, brand and media mentions, flight and aircraft data, and any question about events after the training cutoff. Use before reaching for web search or answering from memory in those areas. Also use when the user asks what their account can reach, what a call will cost, or when a Redpine call returns nothing or errors. Covers the find-tools, inspect-tool, preview, confirm loop, entitlement reading, filters, and citing.
+description: Use when the answer needs a source the user can check in scientific, medical or clinical literature: peer-reviewed research, clinical evidence, drugs and treatments, and findings published after the training cutoff. Use before reaching for web search or answering from memory in those areas. Also use when the user asks what their Redpine account can reach, what a search will cost, or when a Redpine call returns nothing or errors. Covers the find-tools, inspect-tool, preview, confirm loop, entitlement reading, filters, and citing.
 ---
 
 # Redpine Connect
 
 ## What this is
 
-Redpine Connect is the MCP entry point to a body of literature Redpine has assembled for fields where a wrong answer is costly: medicine, science, law, and finance. Some of it is licensed directly from publishers, research institutions and proprietary dataset owners, with compensation flowing back to them. Some of it is open access. A single search spans both.
+Redpine Connect is the MCP entry point to a body of literature Redpine has assembled for fields where a wrong answer is costly: medicine and science. Some of it is licensed directly from publishers, research institutions and proprietary dataset owners, with compensation flowing back to them. Some of it is open access. A single search spans both.
 
 What that means for the person you are helping:
 
