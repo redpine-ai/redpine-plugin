@@ -66,7 +66,6 @@ the top means DSL; anything else means flat. One request, one format.
 - `journalMetricExpansions`: what a metric threshold resolved to. Quote it
   when the user asked for "high-impact" anything, so they see what that meant
   in practice.
-- `query_id`: keep it. The same results re-fetch free for seven days.
 - Each chunk carries its source metadata. Cite from it, as a link. Build the
   URL from whichever identifier the payload provides, in this order:
   `url` as given; `https://doi.org/<doi>`;

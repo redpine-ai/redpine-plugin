@@ -4,7 +4,7 @@
   "displayName": "Redpine",
   "icon": "./icon.svg",
   "description": "Full-text, peer-reviewed scientific and medical literature inside Claude Code, licensed from publishers and drawn from open-access journals, searched as one collection. Connects to the hosted Redpine Connect MCP server and teaches Claude to preview a search's price before spending and to cite the DOI and publisher of every result.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": {
     "name": "Redpine",
     "url": "https://redpine.ai"

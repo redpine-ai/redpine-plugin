@@ -35,12 +35,6 @@ addressed a retired scheme and buys nothing.
 Omitting `result_ids` unlocks everything and bills for everything. That is
 rarely what the user wants from a ten-result preview.
 
-## Re-use instead of re-search
-
-A search response includes a `query_id`. The same results can be fetched again
-with it, free, for seven days. If the user asks a follow-up against the same
-material, re-fetch rather than running and paying for the search again.
-
 ## Balance
 
 `confirm` returns `cost_charged` and `balance_remaining`. Report both; a second
@@ -56,8 +50,6 @@ say how many remain. Be explicit that a direct `search-<name>` call spends one.
 
 ## How long a preview lasts
 
-Seven days, addressed by its `queryId`. Confirm it more than once if you need
-to: the charge covers only results not already unlocked, so a confirm that
-failed on a balance shortfall or a transient error is retried with the same
-`queryId` rather than re-previewed. Inside that window there is nothing to
-re-run and nothing to pay twice for.
+Seven days, addressed by its `queryId`. A confirm that failed on a balance
+shortfall or a transient error is retried with the same `queryId` rather than
+re-previewed.

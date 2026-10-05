@@ -48,7 +48,6 @@ Consent is one short line, on its own, at the very end of the message: "Buy N re
 
 - **Buy only what answers the question.** A search preview lists every result's title, publisher, year, source collection, and a short snippet. Pick the ones that matter and pass only those: `confirm {"queryId": "...", "result_ids": ["r1", "r4"]}`. The search response spells that id `query_id` and confirm's schema spells it `queryId`; both are accepted, while `preview_id` is a retired scheme that buys nothing. Omitting `result_ids` bills for all of them; buying the whole list is almost never what the user wants, so keep it to a handful unless they ask for more.
 - **Open access first.** A result whose `source_collection` is the open-access collection is CC-BY; if it answers the question, lead with it and say so before proposing to unlock licensed content.
-- **Re-fetch instead of re-search.** Every search response carries a `query_id`; the same results come back free for seven days. A follow-up against the same material uses it.
 - **Name the number.** "This costs $0.10" beats "this is a paid tool." Offer the free path first when one exists. Never apologize for the price; it is how the publisher gets paid.
 - **A trial account counts queries, not dollars.** Previews do not consume one; confirmed and direct calls do. Say so before a direct call.
 

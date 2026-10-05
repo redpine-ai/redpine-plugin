@@ -23,7 +23,7 @@ plugins/redpine/
   icon.svg                           directory icon, the Redpine mark on warm white
   skills/redpine-search/
     SKILL.md                         the loop, entitlements, spending, searching, citing
-    references/billing.md            selective unlock, free re-fetch, trial, expiry
+    references/billing.md            selective unlock, trial, expiry
     references/search.md             filters: which field, the two formats, what to read back
     references/craft.md              querying by data shape
     references/troubleshooting.md    missing tools, no balance, empty, errors
